@@ -1,3 +1,3 @@
 # mlprojects - Machine Learning Projects
 
-Machine Learning projects including library with useful functions
+Ongoing Machine Learning projects and demos using popular frameworks like PyTorch and TensorFlow.
